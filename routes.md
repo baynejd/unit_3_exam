@@ -20,7 +20,7 @@
   - GET `/habitats`: Get all habitats.
   - GET `/habitats/:id`: Get single habitat.
   - POST `/habitats`: Add new habitat.
-- **Taggings**
+  - **Taggings**
   - GET `/taggings`: Get all taggings.
   - GET `/taggings/:id`: Get single tagging.
   - GET `/taggings/researchers/:id`: Get all taggings performed by a specific researcher.

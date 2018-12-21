@@ -28,27 +28,27 @@
 ## Seed Data
 
 - **Researchers**
-  - Mariana Aleta, Job Title: Project Lead.
-  - Javed Patrick, Job Title: Senior Field Researcher.
-  - Carolina Itai, Job Title: Field Researcher.
-  - Jazmyn Gottfried, Job Title: Field Researcher.
-  - Ezra Flip, Job Title: Research Intern.
+  - Mariana Aleta, Job Title: Project Lead. 1
+  - Javed Patrick, Job Title: Senior Field Researcher.2
+  - Carolina Itai, Job Title: Field Researcher.3
+  - Jazmyn Gottfried, Job Title: Field Researcher.4
+  - Ezra Flip, Job Title: Research Intern.5
 - **Species**
-  - Dolphin, Mammal: `true`.
-  - Moray Eel, Mammal: `false`.
-  - Tiger Shark, Mammal: `false`.
-  - Orca Whale, Mammal: `true`.
-  - Moon Jelly, Mammal: `false`.
+  - Dolphin, Mammal: `true`. 1
+  - Moray Eel, Mammal: `false`.2
+  - Tiger Shark, Mammal: `false`.3
+  - Orca Whale, Mammal: `true`.4
+  - Moon Jelly, Mammal: `false`.5
 - **Animals**
   - Two Dolphins, Nicknames: "Flip" and "Skip".
   - One Moray Eel, Nickname: "Jenkins".
   - One Tiger Shark, Nickname: "Sally".
   - Three Moon Jellies, Nicknames: "Flapjack", "Gibbous", and "Nox"
 - **Habitats**
-  - Category: Shallows.
-  - Category: Coral Reef.
-  - Category: Tide Pools.
-  - Category: Deeps.
+  - Category: Shallows. 1
+  - Category: Coral Reef.2
+  - Category: Tide Pools.3
+  - Category: Deeps.4
 - **Taggings**
   - "Flip" was tagged by Ezra Flip and Jazmyn Gottfried.
   - "Skip" was tagged by Carolina Itai.
